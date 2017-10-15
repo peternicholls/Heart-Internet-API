@@ -1,0 +1,29 @@
+{
+    "name": "peternicholls/heartinternetapi",
+    "description": "Adapter for HeartInternet reseller API",
+    "type": "package",
+    "homepage": "http://git.io/peternicholls",
+    "keywords": ["heart-internet-api", "adapter", "heart-internet-reseller", "hostpay"],
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "Peter Nicholls",
+            "email": "nicholls@mac.com"
+        }
+    ],
+
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0",
+        "mockery/mockery": "^0.9.4 || ^1.0"
+    },
+    "suggest": {
+
+    },
+    "extra": {
+
+    },
+    "minimum-stability": "dev"
+}
