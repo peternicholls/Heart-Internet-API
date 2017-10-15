@@ -1,9 +1,9 @@
 {
     "name": "peternicholls/heartinternetapi",
-    "description": "Adapter for HeartInternet reseller API",
+    "description": "Wrapper for HeartInternet reseller API",
     "type": "package",
     "homepage": "https://git.io/vdMsV",
-    "keywords": ["heart-internet-api", "adapter", "heart-internet-reseller", "hostpay"],
+    "keywords": ["heart-internet-api", "api-wrapper", "heart-internet-reseller", "hostpay"],
     "license": "GNU GPLv3",
     "authors": [
         {
